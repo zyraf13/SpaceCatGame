@@ -169,9 +169,9 @@ Beberapa fitur yang dapat dikembangkan pada versi berikutnya:
 
 ## 📷 Tampilan Game
 
-### Main Menu
+### Start
 
-![Main Menu Space Cat](Screenshots/main-menu.png)
+![Start Space Cat](Screenshots/userinterface.png)
 
 ### Gameplay
 
@@ -198,6 +198,16 @@ Platform yang dapat digunakan antara lain:
 * WebGL
 
 ---
+
+## 🎮 Download Game
+
+Space Cat Game sudah tersedia dan dapat dimainkan dengan mengunduh versi resmi melalui platform **itch.io**.
+
+👉 **Download sekarang:**  
+**https://zyraf13.itch.io/spacecat**
+
+Versi yang tersedia dapat dimainkan pada sistem operasi **Windows**. Cukup unduh file game, ekstrak (jika dalam format ZIP), kemudian jalankan file `.exe` untuk mulai bermain.
+
 
 ## 👨‍💻 Pengembang
 
