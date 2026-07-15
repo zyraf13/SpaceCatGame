@@ -169,13 +169,14 @@ Beberapa fitur yang dapat dikembangkan pada versi berikutnya:
 
 ## 📷 Tampilan Game
 
- screenshot permainan :
+### Main Menu
 
-```markdown
-![Gameplay Space Cat](Screenshots/gameplay.png)
-```
+![Main Menu Space Cat](Screenshots/main-menu.png)
 
----
+### Gameplay
+
+![Gameplay Space Cat](Screenshots/gameplay.png) 
+
 
 ## 📦 Build Game
 
