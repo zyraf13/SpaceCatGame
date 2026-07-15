@@ -171,12 +171,6 @@ Beberapa fitur yang dapat dikembangkan pada versi berikutnya:
 
  screenshot permainan :
 
-```text
-Screenshots/gameplay.png
-```
-
- tampilkan :
-
 ```markdown
 ![Gameplay Space Cat](Screenshots/gameplay.png)
 ```
